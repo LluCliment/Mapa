@@ -1,6 +1,6 @@
-pandas
-geopandas
-matplotlib
+geopandas==1.0.1
+matplotlib==3.7.0
+pandas==2.2.3
 glob
 os
 unicode
