@@ -1,0 +1,7 @@
+pandas
+geopandas
+matplotlib.pyplot
+glob
+os
+unicode
+re
