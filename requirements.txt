@@ -1,6 +1,6 @@
 pandas
 geopandas
-matplotlib.pyplot
+matplotlib
 glob
 os
 unicode
