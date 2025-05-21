@@ -3,5 +3,3 @@ pandas>=2.0.0 # O la versión específica que necesites si hay compatibilidad
 geopandas>=0.13.0 # O simplemente 'geopandas' para la última
 matplotlib>=3.7.0 # O la versión específica
 unidecode
-os
-re
